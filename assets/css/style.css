@@ -1,0 +1,25 @@
+body {
+    height: 100%;
+}
+#header{
+    color: burlywood;
+}
+
+h1, h2 {
+    font-family: 'Spirax', cursive !important;
+    font-weight: bold;
+    color: azure;
+}
+
+#addTrain {
+    background-color: gray;
+    color:white;
+}
+
+.footer {
+    /* position: absolute; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
